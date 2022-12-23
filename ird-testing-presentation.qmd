@@ -12,8 +12,7 @@ additional-info: |-
   We have no known conflict of interest to disclose.
 date: August 24, 2022
 format:
-  ird-pptx: 
-    toc : false
+  ird-revealjs: default
 ---
 
 # Our Identity
