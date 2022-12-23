@@ -28,7 +28,9 @@ keywords:
 date: August 24, 2022
 bibliography: references.bib
 format:
-  ird-docx: default
+  ird-docx: 
+    # reference-doc: _extensions/ird/ressources/template-banner.docx
+    table-of-contents: false
 ---
 
 
@@ -81,7 +83,7 @@ Etiam interdum, dui vitae aliquet porta, ex dui vestibulum arcu, at aliquet diam
 
 Proin dictum elit at turpis viverra, porta dictum ipsum finibus. Nunc tempus nec metus ac dignissim. Duis porta sodales molestie. Mauris pellentesque convallis mattis. Nulla ac ligula ac lorem efficitur consectetur[@Keynes:1937]. Nulla semper tortor sit amet dui ullamcorper, eu egestas eros tristique. Morbi venenatis purus ac quam lacinia suscipit.
 
-Sed velit elit, dignissim vitae bibendum in, lacinia quis tortor. Sed luctus quam et lobortis dignissim. Praesent varius vitae diam id tempor. Donec augue orci, aliquet nec eros sed, egestas imperdiet leo. Cras convallis, lacus at gravida ullamcorper, mauris lectus pellentesque magna, non pretium est purus et diam. Suspendisse potenti. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris rutrum elit vel pulvinar iaculis. Nulla commodo augue et tincidunt placerat. Aliquam pulvinar lobortis diam. Quisque commodo tempus eros non fringilla. Sed quis iaculis purus, vel mattis elit (see @fig-n-lights). 
+Sed velit elit, dignissim vitae bibendum in, lacinia quis tortor. Sed luctus quam et lobortis dignissim. Praesent varius vitae diam id tempor. Donec augue orci, aliquet nec eros sed, egestas imperdiet leo. Cras convallis, lacus at gravida ullamcorper, mauris lectus pellentesque magna, non pretium est purus et diam. Suspendisse potenti. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris rutrum elit vel pulvinar iaculis. Nulla commodo augue et tincidunt placerat. Aliquam pulvinar lobortis diam. Quisque commodo tempus eros non fringilla. Sed quis iaculis purus, vel mattis elit. 
 
 
 
@@ -125,25 +127,8 @@ Integer vulputate libero nec ultrices efficitur. Nam scelerisque pulvinar nulla 
 
 In varius lobortis ornare[@Turing:1936]. Nunc mi elit, congue nec enim at, gravida rhoncus mi. Mauris sodales lorem at lacus posuere, in ullamcorper ipsum ornare. Sed lobortis molestie eros, vitae vulputate lacus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nullam luctus blandit eros vitae eleifend. Donec vitae quam turpis. Nunc ex massa, ullamcorper non laoreet in, luctus eget orci. Donec ornare mi id arcu sagittis, vitae vulputate ligula sagittis. Donec fermentum arcu nunc, eget elementum quam aliquet id. Vestibulum pulvinar nisl non massa imperdiet ultrices. Sed ut dolor dapibus, ultrices ante quis, ornare felis. Duis mattis augue dui, id maximus lacus dapibus id. Ut a purus dui. Vestibulum sit amet faucibus eros.
 
-Nulla cursus dolor at congue tempus. Phasellus aliquet tincidunt arcu, sed egestas mauris scelerisque eu. Morbi faucibus urna at enim commodo, id facilisis lacus fermentum. Maecenas venenatis libero ac felis tincidunt, eget sollicitudin velit varius. Vivamus nulla enim, sagittis a magna vel, rhoncus egestas augue. Donec felis magna, commodo sed lacus non, dictum ultrices ipsum. Integer interdum nisl varius risus imperdiet, vitae hendrerit justo finibus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In dui purus, bibendum sed arcu in, fringilla sodales ex. Nulla posuere rutrum justo, a pulvinar diam maximus non. Nulla imperdiet sit amet dui at dictum. Fusce vitae massa mauris. Aliquam erat volutpat. Etiam elementum accumsan eleifend. Nunc eu aliquet nisl. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas (see @fig-polar).
+Nulla cursus dolor at congue tempus. Phasellus aliquet tincidunt arcu, sed egestas mauris scelerisque eu. Morbi faucibus urna at enim commodo, id facilisis lacus fermentum. Maecenas venenatis libero ac felis tincidunt, eget sollicitudin velit varius. Vivamus nulla enim, sagittis a magna vel, rhoncus egestas augue. Donec felis magna, commodo sed lacus non, dictum ultrices ipsum. Integer interdum nisl varius risus imperdiet, vitae hendrerit justo finibus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In dui purus, bibendum sed arcu in, fringilla sodales ex. Nulla posuere rutrum justo, a pulvinar diam maximus non. Nulla imperdiet sit amet dui at dictum. Fusce vitae massa mauris. Aliquam erat volutpat. Etiam elementum accumsan eleifend. Nunc eu aliquet nisl. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
 
-```{python python.reticulate = TRUE}
-#| label: fig-polar
-#| fig-cap: "A line plot on a polar axis"
-
-import numpy as np
-import matplotlib.pyplot as plt
-
-r = np.arange(0, 2, 0.01)
-theta = 2 * np.pi * r
-fig, ax = plt.subplots(
-  subplot_kw = {'projection': 'polar'} 
-)
-ax.plot(theta, r)
-ax.set_rticks([0.5, 1, 1.5, 2])
-ax.grid(True)
-plt.show()
-```
 
 Sed accumsan vitae ligula vitae bibendum. Quisque semper nisl nec leo porta faucibus. Sed pulvinar vehicula neque efficitur bibendum. Quisque tincidunt elit vitae mauris porta vestibulum. Sed dolor felis, lacinia vel leo nec, lacinia iaculis dolor. Pellentesque a fringilla nunc, ut imperdiet diam. Aliquam erat volutpat. Nullam dignissim, dolor vel ultrices fringilla, tellus erat fermentum lacus, non malesuada metus risus nec lorem. Donec ullamcorper risus sed aliquet efficitur. Praesent euismod vel enim a mattis.
 
