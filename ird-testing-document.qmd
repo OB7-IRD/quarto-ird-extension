@@ -1,0 +1,167 @@
+---
+title: |-
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+subtitle: Viverra vitae congue eu consequat
+short-title: Lorem ipsum
+published: "Under review at *Dead Language Journal*"
+code-repo: "Access the code, data, and analysis at <https://github.com/OB7-IRD/quarto-ird-extension>"
+correspondence-prefix: "Correspondence concerning this article should be addressed to"
+author:
+  - name: PVPIENVS MAXIMVS
+    email: maximus@romulus.gov
+    attributes:
+      corresponding: true
+  - name: HADRIANVS AVGVSTVS
+    email: augustus@romulus.gov
+abstract: |
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Etiam dignissim diam quis enim. Viverra vitae congue eu consequat. Mi tempus imperdiet nulla malesuada pellentesque elit. Convallis tellus id interdum velit. Magna sit amet purus gravida. Ut lectus arcu bibendum at varius vel pharetra. Id volutpat lacus laoreet non. Diam phasellus vestibulum lorem sed. Ipsum nunc aliquet bibendum enim facilisis gravida neque. Malesuada pellentesque elit eget gravida cum sociis natoque.
+thanks: |-
+  Placeholder text generated at <https://fr.lipsum.com/>.
+additional-info: |-
+  We have no known conflict of interest to disclose.
+keywords:
+  - Lorem 
+  - ipsum 
+  - dolor 
+  - sit 
+  - amet
+date: August 24, 2022
+bibliography: references.bib
+format:
+  ird-docx: default
+---
+
+
+```{r}
+n_lights <- 2 + 2
+n_lights
+```
+
+
+# Introduction
+Donec at diam vulputate, tempor urna in, condimentum lacus. Sed eget leo congue, posuere sem in, interdum nisl. In rutrum tellus vel pellentesque tempus. Vestibulum sed lorem sit amet ante maximus facilisis. Maecenas non eros non eros viverra consectetur. Duis quis nulla eget lacus auctor tempus[@Lovelace:1842]. Nullam vestibulum venenatis dolor, et dictum sem viverra ac. Morbi augue risus, pretium ac libero in, consectetur tempor diam. Nullam tempor bibendum enim, non rhoncus quam. Vivamus mauris libero, posuere sed congue sodales, consectetur in leo. Ut tincidunt molestie lacus sit amet cursus. Cras feugiat porttitor leo, id interdum dolor. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; In commodo egestas euismod. Mauris nec mi ac eros pharetra imperdiet in a ante. Maecenas blandit odio porttitor, vulputate erat rhoncus, accumsan purus.
+
+# Materials & methods
+
+Donec vehicula convallis turpis eget tincidunt. Maecenas eleifend convallis sem, in volutpat lectus varius nec. Fusce gravida commodo tellus sit amet sollicitudin. Phasellus convallis nisi vitae ligula hendrerit, vel pretium tellus consectetur. Cras sit amet ligula mattis, mattis dolor sed, mollis mi. Ut et aliquam ex. Nullam malesuada sodales neque, vel aliquam nisl rhoncus in. Maecenas in elit sodales, vehicula tellus et, blandit quam. Duis condimentum sapien sed nisi tincidunt fringilla. Nullam sit amet erat sed quam volutpat congue. Praesent blandit non sem nec pellentesque. Maecenas placerat facilisis elementum.
+
+Quisque neque odio, luctus dapibus cursus nec, feugiat at nunc. Etiam maximus lectus ut ex pharetra fermentum. In tempor dolor id lobortis rhoncus. Vivamus aliquam sed odio a auctor. Vestibulum non scelerisque magna. Cras id est nisi. Fusce efficitur vehicula ante vel tincidunt. Ut id lorem scelerisque, mollis dui sit amet, molestie erat.
+
+Pellentesque varius suscipit magna at iaculis. Ut aliquet risus porttitor nunc pellentesque, quis facilisis turpis porttitor. Nunc ex dolor, tempor et neque suscipit, rutrum sodales libero. Maecenas est magna, ultricies ut vestibulum et, interdum et erat. Sed ut condimentum eros, quis auctor augue. Sed scelerisque laoreet ex sed rhoncus. Curabitur egestas mollis nunc, eu pellentesque orci lobortis vel. Ut ac nisl consequat, eleifend mi molestie, dapibus arcu. Morbi malesuada elit in tristique tincidunt. Proin venenatis, nibh ac eleifend luctus, elit quam rhoncus massa, quis tincidunt ipsum mi id urna. Praesent ac dictum magna. Fusce feugiat erat nibh, et pulvinar augue ornare at. Curabitur rutrum augue eget lobortis gravida. Cras dapibus consectetur luctus. Donec sodales aliquet quam, ac egestas orci vehicula in.
+
+# Results
+
+Vivamus dui sapien, euismod eget facilisis vel, lobortis eget enim. Nulla viverra elit eget eleifend convallis. Praesent id convallis dui. Donec sollicitudin gravida neque, aliquam bibendum tortor aliquam non. Phasellus non mi risus. Vivamus lacinia augue tellus. Aliquam eu lectus ante. Etiam et feugiat magna, sed scelerisque elit.
+
+## Quisque quis
+
+Quisque quis dictum risus, eget lacinia lacus. Cras ultricies pharetra lacus id ultrices. Nulla in mi sit amet mi rhoncus dignissim. Nullam metus nulla, sodales et justo quis, laoreet sagittis lacus. Nullam eu convallis augue. Integer imperdiet tristique metus, vel rutrum libero accumsan in. Nulla facilisi. Aenean aliquam fringilla libero quis ullamcorper. Mauris fermentum quam eu urna pharetra, ut maximus orci efficitur.
+
+$$
+x=\frac{-b\pm \sqrt{b^2-4ac}}{2a}
+$$
+
+
+### Donec ac velit
+Donec ac velit sed neque commodo suscipit. Nunc varius lectus diam, vel sollicitudin tortor luctus vitae. Aliquam lobortis pellentesque porttitor. Praesent eu diam auctor, dignissim leo et, varius dui. Suspendisse ipsum nisi, pharetra eget ullamcorper vel, porta id leo. Proin vel ultricies neque, eu rutrum metus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Duis tempus dolor eleifend pretium lacinia. Donec id varius mauris. Vivamus ultricies tortor mi, sit amet aliquam eros egestas vitae. Pellentesque molestie eget risus ut vehicula. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nullam eget dolor id urna accumsan ultricies vitae et velit. Pellentesque finibus ex eget auctor feugiat.
+
+### Sed quis 
+
+Sed quis felis fermentum, finibus mauris rutrum, dapibus lorem. In aliquam dignissim finibus. In hac habitasse platea dictumst. Ut dapibus volutpat ligula nec lobortis. Cras congue sem lacus, id molestie mi elementum id. Donec ac bibendum mauris. Cras viverra lacinia mollis. Ut ac turpis imperdiet, auctor nulla sed, porttitor turpis. Aliquam mollis congue massa quis mattis.
+
+Pellentesque id tristique purus, et tempus metus. Curabitur non pharetra ligula. Pellentesque sed suscipit lacus. Etiam vestibulum enim a nunc feugiat pellentesque. Nam blandit tortor a mauris malesuada iaculis. Quisque sed dui tellus. Sed rutrum ligula nulla, in blandit est sodales sit amet. Duis consectetur finibus ipsum, non bibendum lectus tempus sit amet. Duis fringilla in mi vel mattis. Integer luctus nec justo ac cursus. Phasellus sodales commodo nulla, consectetur mattis sem commodo eu. Donec tempor porttitor risus. Maecenas ultrices lectus at ante luctus ullamcorper.
+
+![Le célèbre "coeur de Voh" en Nouvelle-Calédonie © IRD - Gay Jean-Christophe](IRD_52262.jpg)
+
+
+# Discussion
+
+
+Etiam interdum, dui vitae aliquet porta, ex dui vestibulum arcu, at aliquet diam lectus id lacus. Duis tellus lacus, sodales placerat ultricies tempor, blandit et est. Aliquam erat volutpat. Aenean vestibulum mi risus, id porta massa ultrices non. Duis vitae mi non urna maximus egestas. Maecenas dapibus bibendum elit nec pulvinar. Maecenas et aliquet est. Integer auctor sodales arcu, non viverra ex dictum at. Praesent laoreet orci et mattis ultricies. Nunc in dapibus nunc, eget tincidunt nunc. 
+
+Proin dictum elit at turpis viverra, porta dictum ipsum finibus. Nunc tempus nec metus ac dignissim. Duis porta sodales molestie. Mauris pellentesque convallis mattis. Nulla ac ligula ac lorem efficitur consectetur[@Keynes:1937]. Nulla semper tortor sit amet dui ullamcorper, eu egestas eros tristique. Morbi venenatis purus ac quam lacinia suscipit.
+
+Sed velit elit, dignissim vitae bibendum in, lacinia quis tortor. Sed luctus quam et lobortis dignissim. Praesent varius vitae diam id tempor. Donec augue orci, aliquet nec eros sed, egestas imperdiet leo. Cras convallis, lacus at gravida ullamcorper, mauris lectus pellentesque magna, non pretium est purus et diam. Suspendisse potenti. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris rutrum elit vel pulvinar iaculis. Nulla commodo augue et tincidunt placerat. Aliquam pulvinar lobortis diam. Quisque commodo tempus eros non fringilla. Sed quis iaculis purus, vel mattis elit (see @fig-n-lights). 
+
+
+
+Aenean et consectetur libero. Sed a ullamcorper sem, ac suscipit est. Vivamus in aliquam leo. Nam neque elit, eleifend at quam nec, sagittis scelerisque magna. Praesent vel turpis aliquam, ultricies mauris a, maximus erat. Maecenas tristique magna non ultricies ornare. Proin aliquet ultrices mi, nec elementum massa tempus et. Duis eget venenatis urna, quis malesuada urna.
+
+
+```{r plot-n-lights}
+#| echo: false
+#| label: fig-n-lights
+#| fig-cap: There are four lights
+#| fig-width: 5
+#| fig-height: 1
+#| fig-align: "center"
+par(mar = c(0, 0, 0, 0))
+plot(x = seq(1:n_lights), y = rep(1, 4), col = "darkgoldenrod1", 
+     pch = 8, cex = 4, axes = TRUE, ann = FALSE, xlab = FALSE, ylab = FALSE)
+```
+
+
+Nullam sed magna mattis enim ultrices pulvinar. Cras sollicitudin odio orci, at sagittis neque pretium id. Aliquam eget libero lacus. Etiam mollis luctus velit ut tincidunt. Etiam odio dui, bibendum vel lectus ut, fringilla blandit quam. Donec imperdiet euismod vehicula. Proin a erat vitae metus egestas luctus id in nunc. Suspendisse potenti. Nunc quis metus in turpis molestie ultricies.
+
+
+- At vero eos et accusamus et iusto 
+- odio dignissimos ducimus qui blanditiis praesentium voluptatum[^1] deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, 
+- similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. 
+- Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, 
+
+[^1]: omnis dolor repellendus. 
+
+
+Aliquam erat volutpat. Fusce vel molestie urna. Integer elementum nunc ut quam viverra, nec pulvinar leo molestie. Donec ultricies pharetra hendrerit. Proin mollis, nunc in auctor tincidunt, dolor orci cursus dolor, sit amet consectetur velit lacus semper nunc. Duis ut dignissim quam. Morbi et vehicula augue. Sed nibh ante, elementum vel felis ac, ultrices cursus nunc.
+
+
+1. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae 
+2. sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, 
+3. ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.
+
+Integer vulputate libero nec ultrices efficitur. Nam scelerisque pulvinar nulla porttitor varius. Ut ligula augue, ultrices eget volutpat ut, varius et nibh. Nullam vitae sapien tortor. Aenean accumsan risus nec elit tempor, vel volutpat ligula hendrerit. Mauris metus ipsum, lobortis sed posuere nec, dignissim condimentum sem. Mauris diam risus, facilisis in odio eu, commodo fringilla lorem.
+
+# Conclusion
+
+In varius lobortis ornare[@Turing:1936]. Nunc mi elit, congue nec enim at, gravida rhoncus mi. Mauris sodales lorem at lacus posuere, in ullamcorper ipsum ornare. Sed lobortis molestie eros, vitae vulputate lacus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nullam luctus blandit eros vitae eleifend. Donec vitae quam turpis. Nunc ex massa, ullamcorper non laoreet in, luctus eget orci. Donec ornare mi id arcu sagittis, vitae vulputate ligula sagittis. Donec fermentum arcu nunc, eget elementum quam aliquet id. Vestibulum pulvinar nisl non massa imperdiet ultrices. Sed ut dolor dapibus, ultrices ante quis, ornare felis. Duis mattis augue dui, id maximus lacus dapibus id. Ut a purus dui. Vestibulum sit amet faucibus eros.
+
+Nulla cursus dolor at congue tempus. Phasellus aliquet tincidunt arcu, sed egestas mauris scelerisque eu. Morbi faucibus urna at enim commodo, id facilisis lacus fermentum. Maecenas venenatis libero ac felis tincidunt, eget sollicitudin velit varius. Vivamus nulla enim, sagittis a magna vel, rhoncus egestas augue. Donec felis magna, commodo sed lacus non, dictum ultrices ipsum. Integer interdum nisl varius risus imperdiet, vitae hendrerit justo finibus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In dui purus, bibendum sed arcu in, fringilla sodales ex. Nulla posuere rutrum justo, a pulvinar diam maximus non. Nulla imperdiet sit amet dui at dictum. Fusce vitae massa mauris. Aliquam erat volutpat. Etiam elementum accumsan eleifend. Nunc eu aliquet nisl. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas (see @fig-polar).
+
+```{python python.reticulate = TRUE}
+#| label: fig-polar
+#| fig-cap: "A line plot on a polar axis"
+
+import numpy as np
+import matplotlib.pyplot as plt
+
+r = np.arange(0, 2, 0.01)
+theta = 2 * np.pi * r
+fig, ax = plt.subplots(
+  subplot_kw = {'projection': 'polar'} 
+)
+ax.plot(theta, r)
+ax.set_rticks([0.5, 1, 1.5, 2])
+ax.grid(True)
+plt.show()
+```
+
+Sed accumsan vitae ligula vitae bibendum. Quisque semper nisl nec leo porta faucibus. Sed pulvinar vehicula neque efficitur bibendum. Quisque tincidunt elit vitae mauris porta vestibulum. Sed dolor felis, lacinia vel leo nec, lacinia iaculis dolor. Pellentesque a fringilla nunc, ut imperdiet diam. Aliquam erat volutpat. Nullam dignissim, dolor vel ultrices fringilla, tellus erat fermentum lacus, non malesuada metus risus nec lorem. Donec ullamcorper risus sed aliquet efficitur. Praesent euismod vel enim a mattis.
+
+# Author contributions
+
+Ut elementum id lectus eget viverra. Mauris nisi ante, tristique nec convallis accumsan, posuere vel nisi. Nam et elementum mi. Quisque lacus tortor, suscipit eget arcu at, ultricies ultrices neque. Integer iaculis eros vitae porta viverra. Etiam arcu arcu, vestibulum et nunc non, hendrerit consequat nunc. Maecenas a ipsum et nunc condimentum molestie.
+
+Maecenas sit amet eros vitae dui facilisis laoreet pharetra id lectus. Etiam gravida nisl id tempus aliquet. Nullam fermentum efficitur nisl, sed hendrerit tortor iaculis a. Sed eleifend lacinia ipsum, quis dignissim turpis pretium vel. Integer et massa at sapien vestibulum semper. Fusce blandit turpis et dolor iaculis, blandit volutpat enim porttitor. Aenean consectetur, urna quis sodales suscipit, justo est luctus augue, ut mollis ipsum nisi id nisi. Aliquam facilisis molestie turpis, et scelerisque turpis bibendum non. Aliquam efficitur lacus nec nulla aliquam rutrum. Integer ac iaculis ex. Mauris maximus molestie sapien, sed elementum erat ullamcorper quis. Nullam ultrices ante egestas pretium venenatis.
+# Declaration of competing interest
+
+In luctus pharetra ante, ut cursus leo congue id. Maecenas ante ipsum, mollis at mauris nec, sodales placerat felis. Ut feugiat dignissim nunc at elementum. Curabitur vitae lectus odio. Nam egestas erat quis sem varius, a mollis nisi blandit. In blandit efficitur vehicula. Sed at nulla in ex efficitur pulvinar sit amet et diam. Nunc consectetur dapibus eleifend. Duis luctus lacus vitae ornare lobortis.
+
+Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nunc vitae urna sed ante eleifend tincidunt ac at nibh. Donec malesuada arcu sit amet lorem viverra pellentesque. Fusce non aliquam metus, sed maximus urna. Suspendisse ac massa accumsan, laoreet tellus dapibus, condimentum leo. Nulla tristique ornare fringilla. Donec iaculis nisi ante, ac ullamcorper lorem sagittis non. Duis vitae rutrum lacus, eu facilisis ante. Nulla viverra enim sed erat dictum molestie. Fusce nec nunc scelerisque arcu vehicula commodo a quis quam. In consequat erat sit amet egestas consectetur. Praesent eu maximus lorem, vel scelerisque felis.
+# Acknowledgments
+
+Ut eget quam neque. Phasellus suscipit metus ac justo laoreet aliquam. Cras vitae est dictum, dapibus felis eget, bibendum nunc. Donec massa enim, molestie id tempus id, dapibus sit amet nisl. Vestibulum eu ante at orci volutpat mattis nec sit amet magna. Ut sollicitudin enim in lacus cursus, id tempus lacus sagittis. Sed ex justo, porta et nisi vel, malesuada tristique risus. In quam justo, elementum nec suscipit ac, consectetur id nisl. Maecenas interdum tempus ligula, quis bibendum ligula vulputate in. Morbi maximus diam volutpat, aliquet purus quis, volutpat odio. Maecenas varius odio eget ante mollis porta. Mauris maximus, leo eu hendrerit vestibulum, elit risus tincidunt neque, non congue lectus nunc vitae ipsum.
+
+We're acquainted with the wormhole phenomenon, but this... Is a remarkable piece of bio-electronic engineering by which I see much of the EM spectrum ranging from heat and infrared through radio waves, et cetera, and forgive me if I've said and listened to this a thousand times . This planet's interior heat provides an abundance of geothermal energy. We need to neutralize the homing signal.
+
+
+# References

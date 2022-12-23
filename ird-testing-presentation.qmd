@@ -1,0 +1,63 @@
+---
+title: |-
+  A key actor of Sustainability Science
+subtitle: 
+  Science for sustainability for societies of the South
+author:
+  - name: Président Directeur Général
+    email: presidence@ird.fr
+thanks: |-
+  Placeholder text generated at <https://fr.lipsum.com/>.
+additional-info: |-
+  We have no known conflict of interest to disclose.
+date: August 24, 2022
+format:
+  ird-pptx: 
+    toc : false
+---
+
+# Our Identity
+
+- A French public research establishment operating under the joint authority of the French Ministries for Research and Foreign Affairs
+
+- A key French player on the international development agenda: equitable scientific partnership with developing countries, primarily in the intertropical regions and the Mediterranean area
+
+# Cutting-edge scientific research
+
+- Improving the health of populations 
+- Preserving biodiversity
+- Understanding global changes
+- Sustainable management of ocean resources
+- Understanding the societies in the tropical and Mediterranean regions
+
+
+# For a  Sustainability Science
+
+- The research carried out at IRD is structured around major areas linked to global issues (global warming, environmental changes, inequalities, resource crisis, etc.)
+
+- Providing solutions to the major challenges for mankind and the Planet. These solutions are based on sustainability science, which provides a fresh take on knowledge production processes through multi-actor collaborations, transdisciplinarity and intersectoriality at both local and global scales
+
+- In all its actions, the Institute ensures that its interdisciplinary, intersectoral and multi-partner strategy is complemented by excellence in disciplinary science
+
+
+# An international network
+## In mainland France and the French Overseas Territories, in the intertropical regions and the Mediterranean area a network of 36 representations tasked with organizing its collaborations.
+
+![](IRD_international_network.png)
+
+# Links with development actors and donors
+
+- scientific research in line with the international agenda (Sustainable Development Goals)
+- strengthened links with key development players (UN agencies, bilateral and multilateral development banks, foundations
+- innovative national, European and multilateral partnerships
+
+# Open, citizen and participatory science for development
+
+- a role of coordination of open science towards the countries of the South
+protect to share: a renewed intellectual property and partnership strategy
+
+- contribute to reducing the North/South digital divide and define a policy around scientific data and their sustainable management.
+
+- a policy of open access to publications and data, interoperable documentary databases
+
+- participatory science projects
