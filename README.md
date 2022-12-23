@@ -1,6 +1,6 @@
 # Quarto extension for IRD
 
-This extension is inspired from :
+This extension is inspired by :
 - [Hikmah(حكمة) quarto templates](https://github.com/andrewheiss/hikmah-academic-quarto)
 - [Quarto extension for INRAE](https://github.com/davidcarayon/quarto-inrae-extension)
 
