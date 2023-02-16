@@ -28,9 +28,8 @@ keywords:
 date: August 24, 2022
 bibliography: references.bib
 format:
-  ird-docx: 
-    # reference-doc: _extensions/ird/ressources/template-banner.docx
-    table-of-contents: false
+  ird-html: default
+
 ---
 
 
